@@ -1,0 +1,14 @@
+
+ platform :ios, '11.0'
+
+target 'Watson' do
+
+  use_frameworks!
+  pod 'SwiftLint'
+  pod 'R.swift'
+  pod 'NVActivityIndicatorView'
+  pod 'SwiftKeychainWrapper'
+  pod 'PasswordTextField'
+  pod 'SwiftyBeaver'
+
+end
