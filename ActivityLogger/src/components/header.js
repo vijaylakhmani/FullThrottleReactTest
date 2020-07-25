@@ -9,6 +9,7 @@ const Header = ({ siteTitle }) => (
       marginBottom: `1.45rem`,
     }}
   >
+    <link rel="stylesheet" media="all" href="bootstrap/dist/css/bootstrap.min.css/" type="text/css" />
     <div
       style={{
         margin: `0 auto`,
