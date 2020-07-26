@@ -1,0 +1,17 @@
+html,
+body,
+#___gatsby {
+
+    background-color: aliceblue ;
+    backface-visibility: hidden;
+    
+}
+
+
+table{
+    background: white;
+}
+
+.close{
+    color: white;
+}
